@@ -1,0 +1,38 @@
+nav 
+{
+    margin-top: 0px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    background-color: #f2fbff; 
+    font-weight: bold;
+    margin-bottom: 8px;
+}
+
+nav a  /*Select all <a> tags inside the element with class navbar. */
+{
+    text-decoration: none; 
+    color: #8400ff;
+    word-spacing: 340px;
+    margin-left: 5px;
+}
+
+footer
+{
+    padding:5px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background: linear-gradient(to top,#ffe100,#00a6ff);
+    color: azure;
+    font-size: 20px;
+}
+
+.skill
+{
+    color: #0d00ff;
+    font-size: 20px;
+    margin-bottom: 5px;
+    margin-top: 0px;
+}
+#forms
+{
+    font-size: 18px;
+}
